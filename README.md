@@ -1,4 +1,8 @@
-### Hi there 👋
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thesylwio&hide=stars,contribs&count_private=true&show_icons=true&theme=react)
+
+### Projects
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=thesylwio&repo=employee-management-system&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thesylwio&theme=react)
 
 <!--
 **TheSylwio/TheSylwio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
