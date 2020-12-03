@@ -6,4 +6,4 @@
 ## About me
 🔭 I’m currently working on Web Dashboard System\
 🌱 I’m currently learning: React.js, Firebase\
-🏆 I'm currently taking part in [Advent of Code](https://adventofcode.com/) event
+🏆 I'm currently taking part in [Advent of Code](https://github.com/TheSylwio/advent-of-code) event
