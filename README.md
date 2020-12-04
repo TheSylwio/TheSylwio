@@ -1,7 +1,7 @@
 # Welcome to my GitHub profile! 👋
 
 ## About me
-🔭 I’m currently working on Web Dashboard System\
+🔭 I’m currently working on Web Dashboard System (more information in private correspondence)\
 🌱 I’m currently learning: React.js, Firebase\
 🏆 I'm currently taking part in [Advent of Code](https://github.com/TheSylwio/advent-of-code) event
 
