@@ -1,12 +1,11 @@
-# Hi there! 👋
-## Welcome to my GitHub profile!
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thesylwio&hide=stars,contribs&count_private=true&show_icons=true&theme=graywhite)
+# Welcome to my GitHub profile! 👋
 
 ## About me
 🔭 I’m currently working on Web Dashboard System\
 🌱 I’m currently learning: React.js, Firebase\
 🏆 I'm currently taking part in [Advent of Code](https://github.com/TheSylwio/advent-of-code) event
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thesylwio&hide=stars,contribs&count_private=true&show_icons=true&theme=graywhite)
 
 ## Technologies
 ### Front-end
