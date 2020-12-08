@@ -1,4 +1,4 @@
-# Welcome to my GitHub profile! 👋
+# Welcome to my GitHub profile! 👋 ![](https://komarev.com/ghpvc/?username=thesylwio&label=Views&style=flat-square&color=red)
 
 ## About me
 🔭 I’m currently working on Web Dashboard System (more information in private correspondence)\
