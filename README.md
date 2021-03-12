@@ -1,18 +1,13 @@
 # Welcome to my GitHub profile! 👋 ![](https://komarev.com/ghpvc/?username=thesylwio&label=Views&style=flat-square&color=red)
 
 ## About me
-🎓 Computer Science Student
-
-🏫 University of Economics in Katowice
-
-🎨 Front-End Developer
-
+🎓 Computer Science Student\
+🏫 University of Economics in Katowice\
+🎨 Front-End Developer\
 👥 [@iDappStudio](https://idappstudio.com) member
 
-🔭 I’m currently working on Web Dashboard System (more information in private correspondence)
-
-🌱 I’m currently learning: React.js, Firebase
-
+🔭 I’m currently working on Web Dashboard System (more information in private correspondence)\
+🌱 I’m currently learning: React.js, Firebase\
 🏆 Participant of [Advent of Code](https://github.com/TheSylwio/advent-of-code)
 
 ![TheSylwio's github stats](https://github-readme-stats.vercel.app/api?username=thesylwio&hide=stars,contribs&count_private=true&show_icons=true&theme=graywhite)
