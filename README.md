@@ -1,17 +1,19 @@
 # Welcome to my GitHub profile! 👋 ![](https://komarev.com/ghpvc/?username=thesylwio&label=Views&style=flat-square&color=red)
 
+![TheSylwio's github stats](https://github-readme-stats.vercel.app/api?username=thesylwio&hide=stars,contribs&count_private=true&show_icons=true&theme=graywhite)
+
 ## About me
 🎓 Computer Science Student\
 🏫 University of Economics in Katowice\
 🎨 Front-End Developer\
-👥 [@iDappStudio](https://idappstudio.com) member
-🤝 [@EON46](https://eon46.com/) collaborator
+👥 [@iDappStudio](https://idappstudio.com) Web Developer
+🤝 [@EON46](https://eon46.com/) Collaborator
+🏆 [Advent of Code](https://github.com/TheSylwio/advent-of-code) Participant
 
-🔭 I’m currently working on Web Dashboard System (more information in private correspondence)\
-🌱 I’m currently learning: React.js, Firebase\
-🏆 Participant of [Advent of Code](https://github.com/TheSylwio/advent-of-code)
-
-![TheSylwio's github stats](https://github-readme-stats.vercel.app/api?username=thesylwio&hide=stars,contribs&count_private=true&show_icons=true&theme=graywhite)
+## Current projects
+* [crypto-wallet-simulation](https://github.com/TheSylwio/crypto-wallet-simulation) - University Project for "Mobile Applications" subject (React Native)
+* web-dashboard-system (*private*) - Web Dashboard System for loyalty card mobile application (React, TypeScript, Redux, Firebase)
+* iDapp-studio-website (*private*) - Improvement of [iDappStudio](https://idappstudio.com) website (React, Firebase Functions)
 
 ## Technologies
 ### Front-end
@@ -22,8 +24,9 @@
 | <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> | CSS 3 |
 | <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/es6/es6.png" /> | ECMAScript 6 |
 | <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /> | TypeScript |
-| <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />  | React.js |
-| <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />  | Redux |
+| <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> | React.js |
+| <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" /> | Redux |
+| <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png" /> | Styled Components |
 | <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" /> | Bootstrap |
 
 ### Back-end
