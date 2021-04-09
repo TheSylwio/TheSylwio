@@ -6,8 +6,8 @@
 🎓 Computer Science Student\
 🏫 University of Economics in Katowice\
 🎨 Front-End Developer\
-👥 [@iDappStudio](https://idappstudio.com) Web Developer
-🤝 [@EON46](https://eon46.com/) Collaborator
+👥 [@iDappStudio](https://idappstudio.com) Web Developer\
+🤝 [@EON46](https://eon46.com/) Collaborator\
 🏆 [Advent of Code](https://github.com/TheSylwio/advent-of-code) Participant
 
 ## Current projects
