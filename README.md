@@ -8,7 +8,9 @@
 🎨 Front-End Developer\
 👥 [@iDappStudio](https://idappstudio.com) Web Developer\
 🤝 [@EON46](https://eon46.com/) Collaborator\
-🏆 [Advent of Code](https://github.com/TheSylwio/advent-of-code) Participant
+🏆 Advent of Code Participant:
+  * [2020](https://github.com/TheSylwio/advent-of-code)
+  * [2021](https://github.com/TheSylwio/advent-of-code-2021)
 
 ## Current projects
 * [crypto-wallet-simulation](https://github.com/TheSylwio/crypto-wallet-simulation) - University Project for "Mobile Applications" subject (React Native)
