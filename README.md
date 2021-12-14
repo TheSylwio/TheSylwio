@@ -5,17 +5,11 @@
 ## About me
 🎓 Computer Science Student\
 🏫 University of Economics in Katowice\
-🎨 Front-End Developer\
+🔧 Back-End Developer\
 👥 [@iDappStudio](https://idappstudio.com) Web Developer\
-🤝 [@EON46](https://eon46.com/) Collaborator\
 🏆 Advent of Code Participant:
   * [2020](https://github.com/TheSylwio/advent-of-code)
   * [2021](https://github.com/TheSylwio/advent-of-code-2021)
-
-## Current projects
-* [crypto-wallet-simulation](https://github.com/TheSylwio/crypto-wallet-simulation) - University Project for "Mobile Applications" subject (React Native)
-* web-dashboard-system (*private*) - Web Dashboard System for loyalty card mobile application (React, TypeScript, Redux, Firebase)
-* iDapp-studio-website (*private*) - Improvement of [iDappStudio](https://idappstudio.com) website (React, Firebase Functions)
 
 ## Technologies
 
