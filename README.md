@@ -6,7 +6,6 @@
 🎓 Computer Science Student\
 🏫 University of Economics in Katowice\
 🔧 Back-End Developer\
-👥 [@iDappStudio](https://idappstudio.com) Web Developer\
 🏆 Advent of Code Participant:
   * [2020](https://github.com/TheSylwio/advent-of-code)
   * [2021](https://github.com/TheSylwio/advent-of-code-2021)
